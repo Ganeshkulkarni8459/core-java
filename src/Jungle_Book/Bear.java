@@ -5,6 +5,7 @@ public class Bear {
 	String weight;
 	String color;
 	String voice;
+        String height;
 	
 	public void growl() {
 		System.out.println(name + " is growling");
