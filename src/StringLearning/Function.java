@@ -44,6 +44,8 @@ public class Function {
 		System.out.println("Domain - "+tukade[1]);
 		
 		System.out.println(name.trim());
+                
+                System.out.println(name.length());
 		
 //		System.out.println(name.toUpperCase());
 //		
